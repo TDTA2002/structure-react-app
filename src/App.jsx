@@ -1,8 +1,11 @@
-import React from 'react'
-import './App.scss'
+import './App.scss';
 
-export default function App() {
+function App() {
   return (
-    <div>App</div>
-  )
+    <div className="App">
+      123123131
+    </div>
+  );
 }
+
+export default App;
