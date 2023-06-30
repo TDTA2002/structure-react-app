@@ -1,8 +1,18 @@
 {
-    "user": [
-        {
-            "id": 1,
-            "name": "Ghost King"
-        }
-    ]
+  "user": [
+    {
+      "name": "123",
+      "email": "1232323",
+      "phonenumber": "2222",
+      "block": false,
+      "id": 2
+    },
+    {
+      "name": "dwd",
+      "email": "www",
+      "phonenumber": "1223ww",
+      "block": true,
+      "id": 3
+    }
+  ]
 }
